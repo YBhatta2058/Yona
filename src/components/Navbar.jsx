@@ -22,7 +22,7 @@ const Navbar = () => {
     <nav>
           <div className="nav__logo">
             <HLink to = "/#Home"><img src="./logo.png" alt="logo" /></HLink>
-            <span>YONA</span>
+            <span>YONA Wellness and Healthcare</span>
           </div>
           <ul className={`nav__links ${menu}`}>
             <li className="link"  onClick = {closeMenu}>

@@ -99,7 +99,7 @@ const Page = () => {
                 src="./firstYoga.jpg"
                 alt=""
               />
-              <h4>NorthEast India's 1st Yoga and Naturopathy Company</h4>
+              <h4>A wellness and healthcare startup from Shilong, Meghalaya</h4>
               <p>
                 We take immense pride in being the first in the region to offer
                 the enriching blend of yoga and naturopathy. Our commitment is
