@@ -213,7 +213,7 @@ header {
 .headerFull::before {
   content: "";
   position: absolute;
-  background: url("./header.jpg") center center/cover no-repeat;
+  background: url("/public/header.jpg") center center/cover no-repeat;
   width: 100%;
   top: 0;
   left: 0;
